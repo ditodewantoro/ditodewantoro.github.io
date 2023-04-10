@@ -1,0 +1,47 @@
+body {
+    background-color: #222;
+    color: #fff;
+}
+
+.jumbotron {
+    background-color: #444;
+    color: #fff;
+}
+
+.card {
+    background-color: #333;
+    color: #fff;
+}
+
+.card-title {
+    color: #fff;
+}
+
+.btn-primary {
+    background-color: #007bff;
+    border-color: #007bff;
+}
+
+.btn-primary:hover {
+    background-color: #0069d9;
+    border-color: #0062cc;
+}
+
+.list-group-item {
+    background-color: #444;
+    color: #fff;
+}
+
+.list-group-item:hover {
+    background-color: #333;
+}
+
+.list-group-item.active {
+    background-color: #007bff;
+    border-color: #007bff;
+}
+
+.list-group-item.active:hover {
+    background-color: #0069d9;
+    border-color: #0062cc;
+}
